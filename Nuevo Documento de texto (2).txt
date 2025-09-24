@@ -1,0 +1,2 @@
+segundo documento para git
+le cambio algo después del primer commit
